@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nhu Y</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://badges.pufler.dev/repos/YtalyPham" alt="ytalypham" /> </p>
 
 - ✍ I'm a student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **ANDROID, WEBSITE, DOCKER.**
 
 
 ## 📫 How to reach me:
@@ -31,25 +31,27 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+   
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/bubbles/50/undefined/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/ms-project.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YtalyPham&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=YtalyPham&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YtalyPham&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ytalypham" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=YtalyPham&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ytalypham" width="100%"/>
     </td>
     <td>
       <p align="center"> 
