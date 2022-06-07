@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
-- 🌱 I’m currently learning **ANDROID, WEBSITE, DOCKER.**
+- 🌱 I’m currently learning **WEBSITE(Responsive), DOCKER.**
 
 
 ## 📫 How to reach me:
