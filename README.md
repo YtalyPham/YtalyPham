@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://badges.pufler.dev/repos/YtalyPham" alt="ytalypham" /> </p>
 
-- ✍ I'm a student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
+- ✍ I'm a final-year student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
 - 🌱 I’m currently learning **WEBSITE(Responsive), DOCKER.**
 
