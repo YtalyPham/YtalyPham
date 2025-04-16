@@ -3,14 +3,12 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://badges.pufler.dev/repos/YtalyPham" alt="ytalypham" /> </p>
 
-- ✍ I'm a final-year student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
+- ✍ I'm Graducated from: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
 - 🌱 I’m currently learning **WEBSITE(Responsive,PHP,Wordpress), DOCKER.**
 
 
 ## 📫 How to reach me:
-
-<!-- [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-nh%C6%B0-%C3%BD-452940189/" target="_blank">
