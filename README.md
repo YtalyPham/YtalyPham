@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/>
   <img src="https://img.icons8.com/color/48/undefined/ms-project.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-  <img src="https://img.icons8.com/nolan/64/laravel.png"/>
+  <img src="https://img.icons8.com/nolan/48/laravel.png"/>
 </p>
 
 <table style="width:100%;">
