@@ -32,6 +32,7 @@
    
   <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+  <img src="https://img.icons8.com/nolan/48/laravel.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/undefined/postgreesql.png"/>
@@ -43,7 +44,6 @@
   <img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/>
   <img src="https://img.icons8.com/color/48/undefined/ms-project.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-  <img src="https://img.icons8.com/nolan/48/laravel.png"/>
 </p>
 
 <table style="width:100%;">
